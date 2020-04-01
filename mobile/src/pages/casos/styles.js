@@ -72,5 +72,11 @@ export default StyleSheet.create({
         color: '#e82041',
         fontSize: 15,
         fontWeight: 'bold'
+    },
+
+    cardHeader: {
+        flexDirection: 'row',
+        justifyContent: 'space-between',
+        alignItems: 'center'
     }
 });
